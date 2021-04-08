@@ -1,0 +1,7 @@
+{
+    "title": "Conversion de devise",
+    "currency": "Devise",
+    "amount": "Montant",
+    "no_base_currency": "Aucune devise source définie",
+    "settings.base_currency": "Devise source"
+}

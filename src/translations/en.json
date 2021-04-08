@@ -1,0 +1,7 @@
+{
+    "title": "Exchange rates",
+    "currency": "Currency",
+    "amount": "Amount",
+    "no_base_currency": "No base currency has been set up",
+    "settings.base_currency": "Base currency"
+}
